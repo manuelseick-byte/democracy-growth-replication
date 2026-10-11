@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the student replication and the original article."
+title: "Replication and Extension of Democracy Does Cause Growth"
+type: software
+authors:
+  - family-names: Bagley
+    given-names: Sophia
+  - family-names: Ledesma Robina
+    given-names: Sara
+  - family-names: Seick
+    given-names: Manuel
+date-released: 2026
